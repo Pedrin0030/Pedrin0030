@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Habilidades em Interpessoal</h3>
+<h3 align="left">Habilidades Interpessoais</h3>
 
 ###
 
