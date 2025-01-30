@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bacharelando em Engenharia de Software, Universidade de Brasília (UnB)<br>Desenvolvedor Back-end e  Front-End 👨🏽‍💻</p>
+<p align="left">Bacharelando em Engenharia de Software, Universidade de Brasília (UnB)<br>Desenvolvedor Back-end e Front-End, Gestão de Projetos, Cibersegurança 👨🏽‍💻</p>
 
 ###
 
