@@ -62,8 +62,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrin0030&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrin0030&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedrin0030&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrin0030&layout=compact&langs_count=5&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
