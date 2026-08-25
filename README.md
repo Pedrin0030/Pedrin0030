@@ -7,6 +7,19 @@
   <strong>Desenvolvedor Full Stack | UI/UX Designer </strong> 👨🏽‍💻
 </p>
 
+<!-- Botões de Contato -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-paulo-a960672aa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://portifolio-sable-eight-13.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23333333?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="mailto:pedrinsantos991@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 ###
 
 <h3 align="left">Sobre Mim</h3>
@@ -61,16 +74,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrin0030&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrin0030&layout=compact&langs_count=5&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedrin0030&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin0030&layout=compact&langs_count=6&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Linguagens mais usadas" />
+</p>
 
 ###
 
 <h3 align="center">Tecnologias</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -94,6 +107,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+</p>
 
 ###
